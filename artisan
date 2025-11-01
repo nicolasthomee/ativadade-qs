@@ -1,0 +1,4 @@
+#!/usr/bin/env php
+<?php
+// This is a placeholder. After running 'composer install' the real 'artisan' will be available.
+echo "Please run 'composer install' to install dependencies and enable artisan.\n";
